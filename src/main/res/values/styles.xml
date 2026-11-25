@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.ECCInet" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#073FA2</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>

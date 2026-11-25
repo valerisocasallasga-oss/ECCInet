@@ -1,0 +1,11 @@
+{
+  "name": "eccinet/piloto",
+  "description": "Servicio PHP y correo SMTP de ECCInet",
+  "type": "project",
+  "require": {
+    "php": ">=8.1",
+    "ext-pdo": "*",
+    "ext-mbstring": "*",
+    "phpmailer/phpmailer": "^7.0"
+  }
+}
